@@ -1,6 +1,6 @@
 {
     "ServiceSettings": {
-        "SiteURL": "https://abdulsmapara11mattermost.herokuapp.com",
+        "SiteURL": "https://abdulsmapara11mattermostapp.herokuapp.com",
         "WebsocketURL": "",
         "LicenseFileLocation": "",
         "ListenAddress": "0.0.0.0:${PORT}",
